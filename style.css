@@ -1,0 +1,29 @@
+* {
+  font-family: "Verdana", Geneva, sans-serif;
+  font-size: 18px;
+  
+}
+body {
+  width: 700px;
+}
+h1 {
+  font-family: "Tahoma", Helvetica, sans-serif;
+  font-size: 37px;
+  line-height: 46px;
+  color: #000000;
+}
+
+h2 {
+  font-family: "Tahoma", Helvetica, sans-serif;
+  font-size: 25px;
+  line-height: 38px;
+}
+
+p:first-of-type {
+  color: #666666;
+}
+
+p {
+  color: #333;
+  line-height: 27px;
+}
